@@ -1,0 +1,19 @@
+{
+  "name": "my-react-template",
+  "version": "1.0.0",
+  "description": "Custom react template for my home projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexuss1996/custom-react-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexuss1996/custom-react-template/issues"
+  },
+  "homepage": "https://github.com/alexuss1996/custom-react-template#readme"
+}
